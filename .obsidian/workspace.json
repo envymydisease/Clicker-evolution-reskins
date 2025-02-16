@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "2ff90fedce41c68f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9360f01fc978d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "462236b2768bc333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Графическое оформление/03. Дизайн мира.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. Дизайн мира"
+            }
+          },
+          {
+            "id": "3ef8623cce3f104a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image_2.png"
+              },
+              "icon": "lucide-image",
+              "title": "Image_2"
+            }
+          },
+          {
+            "id": "25dd74e285935b56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "122211059725fdb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d4c7ed8b2a385d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47db0845d229c9b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0650d2dfce84ad84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "198dc5fdf853366c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b5dc392c9bdf96e",
+    "type": "split",
+    "children": [
+      {
+        "id": "882d64f3b04fdf7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91c7bd4289a7f35e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02. Графическое оформление/03. Дизайн мира.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03. Дизайн мира"
+            }
+          },
+          {
+            "id": "2a361aa6b2ac3aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02. Графическое оформление/03. Дизайн мира.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03. Дизайн мира"
+            }
+          },
+          {
+            "id": "0e6deea3273b203a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9774a04ea21e5b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02. Графическое оформление/03. Дизайн мира.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03. Дизайн мира"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "25dd74e285935b56",
+  "lastOpenFiles": [
+    "Image_9.png",
+    "Image_8.png",
+    "Resources_temp/Upgrades/Upgrade_1.png",
+    "Resources_temp/Upgrades/Upgrade_2.png",
+    "Resources_temp/Example.png",
+    "Resources_temp/Character_2_S.png",
+    "Resources_temp/Character_2.png",
+    "Image_3.png",
+    "Resources_temp/Localization.json",
+    "Resources_temp/600x600.psd",
+    "Resources_temp/Upgrades/Upgrade_9_S.png",
+    "Resources_temp/Upgrades/Upgrade_9.png",
+    "Resources_temp/Upgrades/Upgrade_8_S.png",
+    "Resources_temp/Upgrades",
+    "Resources_temp/Sound/Music.mp3",
+    "Resources_temp/Sound",
+    "Resources_temp/postproduction/800x470 clicker banner.psd",
+    "Resources_temp/postproduction/512x512 clicker pfp.psd",
+    "Resources_temp/postproduction",
+    "Resources_temp/Characters",
+    "Resources_temp/Background",
+    "README.md",
+    "04. Технические аспекты.md",
+    "Основное.md",
+    "05. План моентизации и выпуска/02. План выпуска.md",
+    "02. Графическое оформление.md",
+    "06. Команда и ресурсы.md",
+    "05. План монетизация и выпуска.md",
+    "06. Команда и ресурсы/01. Распределение ролей.md",
+    "06. Команда и ресурсы/02. Инструменты.md",
+    "06. Команда и ресурсы/03. Внешние ресурсы.md",
+    "05. План моентизации и выпуска/03. Реклама и продвижение.md",
+    "04. Технические аспекты/03. Технические характеристики.md",
+    "05. План моентизации и выпуска/01. Монетизация.md",
+    "01. Геймдизайн/03. История и лор.md",
+    "04. Технические аспекты/02. Управление.md",
+    "04. Технические аспекты/01. Детали движка.md",
+    "02. Графическое оформление/01. Стиль рисовки.md",
+    "01. Геймдизайн/04. Дизайн уровней.md",
+    "01. Геймдизайн.md",
+    "03. Звуковое оформление.md",
+    "02. Графическое оформление/02. Дизайн персонажей.md",
+    "01. Геймдизайн/02. Игровые механики.md",
+    "00. Заметки/Lorem ipsum....md",
+    "01. Геймдизайн/01. Описание игры.md",
+    "03. Звуковое оформление/01. Музыка.md"
+  ]
+}

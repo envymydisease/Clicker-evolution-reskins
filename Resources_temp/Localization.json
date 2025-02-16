@@ -1,0 +1,218 @@
+{
+  "localization": [
+    {
+      "key": "ads1",
+      "translations": [ "Реклама через 1...", "Advertising in 1...", "Saniyede reklam 1...", "Werbung in 1..." ]
+    },
+    {
+      "key": "ads2",
+      "translations": [ "Реклама через 2...", "Advertising in 2...", "Saniyede reklam 2...", "Werbung in 2..." ]
+    },
+    {
+      "key": "per_sec",
+      "translations": [ "в секунду", "per second", "saniyede", "pro Sekunde" ]
+    },
+    {
+      "key": "per_click",
+      "translations": [ "за клик", "per click", "tıklama başına", "pro Klick" ]
+    },
+
+    {
+      "key": "Upgrade_1",
+      "translations": [ "Деревянная лопата", "Wooden Shovel", "Tahta Kürek", "Holzschaufel" ]
+    },
+    {
+      "key": "Upgrade_2",
+      "translations": [ "Ферма ягод", "Berry Farm", "Yaban Mersini Çiftliği", "Beerenfarm" ]
+    },
+    {
+      "key": "Upgrade_3",
+      "translations": [ "Деревянный топор", "Wooden Axe", "Tahta Balta", "Holzaxt" ]
+    },
+    {
+      "key": "Upgrade_4",
+      "translations": [ "Ферма пшеницы", "Wheat Farm", "Buğday Çiftliği", "Weizenhof" ]
+    },
+    {
+      "key": "Upgrade_5",
+      "translations": [ "Деревянная кирка", "Wooden Pickaxe", "Tahta Kazma", "Holzspitzhacke" ]
+    },
+    {
+      "key": "Upgrade_6",
+      "translations": [ "Ферма арбузов", "Melon Farm", "Kavun Çiftliği", "Melonenhof" ]
+    },
+    {
+      "key": "Upgrade_7",
+      "translations": [ "Деревянный меч", "Wooden Sword", "Tahta Kılıç", "Holzschwert" ]
+    },
+    {
+      "key": "Upgrade_8",
+      "translations": [ "Ферма золотых ягод", "Golden Berry Farm", "Altın Berry Çiftliği", "Goldbeerenfarm" ]
+    },
+
+    {
+      "key": "Upgrade_9",
+      "translations": [ "Каменная лопата", "Stone Shovel", "Taş Kürek", "Steinschaufel" ]
+    },
+    {
+      "key": "Upgrade_10",
+      "translations": [ "Ферма яблок", "Apple Farm", "Elma Çiftliği", "Apfelhof" ]
+    },
+    {
+      "key": "Upgrade_11",
+      "translations": [ "Каменный топор", "Stone Axe", "Taş Balta", "Steinaxt" ]
+    },
+    {
+      "key": "Upgrade_12",
+      "translations": [ "Ферма моркови", "Carrot Farm", "Havuç Çiftliği", "Karottenfarm" ]
+    },
+    {
+      "key": "Upgrade_13",
+      "translations": [ "Каменная кирка", "Stone Pickaxe", "Taş Kazma", "Steinspitzhacke" ]
+    },
+    {
+      "key": "Upgrade_14",
+      "translations": [ "Ферма свеклы", "Beetroot Farm", "Pancar Çiftliği", "Rübenfarm" ]
+    },
+    {
+      "key": "Upgrade_15",
+      "translations": [ "Каменный меч", "Stone Sword", "Taş Kılıç", "Steinschwert" ]
+    },
+    {
+      "key": "Upgrade_16",
+      "translations": [ "Ферма картофеля", "Potato Farm", "Patates Çiftliği", "Kartoffelhof" ]
+    },
+
+    {
+      "key": "Upgrade_17",
+      "translations": [ "Железная лопата", "Iron Shovel", "Demir Kürek", "Eisenschaufel" ]
+    },
+    {
+      "key": "Upgrade_18",
+      "translations": [ "Ферма тростника", "Sugar Cane Farm", "Şeker Kamışı Çiftliği", "Zuckerrohrfarm" ]
+    },
+    {
+      "key": "Upgrade_19",
+      "translations": [ "Железный топор", "Iron Axe", "Demir Balta", "Eisenaxt" ]
+    },
+    {
+      "key": "Upgrade_20",
+      "translations": [ "Ферма водорослей", "Kelp Farm", "Deniz Yosunu Çiftliği", "Seetangfarm" ]
+    },
+    {
+      "key": "Upgrade_21",
+      "translations": [ "Железная кирка", "Iron Pickaxe", "Demir Kazma", "Eisenspitzhacke" ]
+    },
+    {
+      "key": "Upgrade_22",
+      "translations": [ "Ферма какао", "Cocoa Farm", "Kakao Çiftliği", "Kakaofarm" ]
+    },
+    {
+      "key": "Upgrade_23",
+      "translations": [ "Железный меч", "Iron Sword", "Demir Kılıç", "Eisenschwert" ]
+    },
+    {
+      "key": "Upgrade_24",
+      "translations": [ "Ферма яиц", "Egg Farm", "Yumurta Çiftliği", "Eierfarm" ]
+    },
+
+    {
+      "key": "Upgrade_25",
+      "translations": [ "Золотая лопата", "Gold Shovel", "Altın Kürek", "Goldschaufel" ]
+    },
+    {
+      "key": "Upgrade_26",
+      "translations": [ "Ферма хорусов", "Chorus Fruit Farm", "Kor Meyvesi Çiftliği", "Choruspflanzenfarm" ]
+    },
+    {
+      "key": "Upgrade_27",
+      "translations": [ "Золотой топор", "Gold Axe", "Altın Balta", "Goldaxt" ]
+    },
+    {
+      "key": "Upgrade_28",
+      "translations": [ "Ферма курятины", "Chicken Farm", "Tavuk Çiftliği", "Hühnerfarm" ]
+    },
+    {
+      "key": "Upgrade_29",
+      "translations": [ "Золотая кирка", "Gold Pickaxe", "Altın Kazma", "Goldspitzhacke" ]
+    },
+    {
+      "key": "Upgrade_30",
+      "translations": [ "Ферма рыбы", "Fish Farm", "Balık Çiftliği", "Fischfarm" ]
+    },
+    {
+      "key": "Upgrade_31",
+      "translations": [ "Золотой меч", "Gold Sword", "Altın Kılıç", "Goldschwert" ]
+    },
+    {
+      "key": "Upgrade_32",
+      "translations": [ "Ферма кроликов", "Rabbit Farm", "Tavşan Çiftliği", "Kaninchenfarm" ]
+    },
+
+    {
+      "key": "Upgrade_33",
+      "translations": [ "Алмазная лопата", "Diamond Shovel", "Elmas Kürek", "Diamantschaufel" ]
+    },
+    {
+      "key": "Upgrade_34",
+      "translations": [ "Ферма баранины", "Mutton Farm", "Koyun Eti Çiftliği", "Lammfarm" ]
+    },
+    {
+      "key": "Upgrade_35",
+      "translations": [ "Алмазный топор", "Diamond Axe", "Elmas Balta", "Diamantaxt" ]
+    },
+    {
+      "key": "Upgrade_36",
+      "translations": [ "Ферма свинины", "Pork Farm", "Domuz Eti Çiftliği", "Schweinefarm" ]
+    },
+    {
+      "key": "Upgrade_37",
+      "translations": [ "Алмазная кирка", "Diamond Pickaxe", "Elmas Kazma", "Diamantspitzhacke" ]
+    },
+    {
+      "key": "Upgrade_38",
+      "translations": [ "Ферма говядины", "Beef Farm", "Sığır Eti Çiftliği", "Rinderfarm" ]
+    },
+    {
+      "key": "Upgrade_39",
+      "translations": [ "Алмазный меч", "Diamond Sword", "Elmas Kılıç", "Diamantschwert" ]
+    },
+    {
+      "key": "Upgrade_40",
+      "translations": [ "Ферма бамбука", "Bamboo Farm", "Bambu Çiftliği", "Bambusfarm" ]
+    },
+
+    {
+      "key": "Upgrade_41",
+      "translations": [ "Незеритовая лопата", "Netherite Shovel", "Netherit Kürek", "Netheritschaufel" ]
+    },
+    {
+      "key": "Upgrade_42",
+      "translations": [ "Ферма костей", "Bone Farm", "Kemik Çiftliği", "Knochenfarm" ]
+    },
+    {
+      "key": "Upgrade_43",
+      "translations": [ "Незеритовый топор", "Netherite Axe", "Netherit Balta", "Netheritaxt" ]
+    },
+    {
+      "key": "Upgrade_44",
+      "translations": [ "Ферма адского нароста", "Nether Wart Farm", "Cehennem Çiftliği", "Netherwarzenfarm" ]
+    },
+    {
+      "key": "Upgrade_45",
+      "translations": [ "Незеритовая кирка", "Netherite Pickaxe", "Netherit Kazma", "Netheritspitzhacke" ]
+    },
+    {
+      "key": "Upgrade_46",
+      "translations": [ "Ферма слизи", "Slime Farm", "Slime Çiftliği", "Schleimfarm" ]
+    },
+    {
+      "key": "Upgrade_47",
+      "translations": [ "Незеритовый меч", "Netherite Sword", "Netherit Kılıç", "Netheritschwert" ]
+    },
+    {
+      "key": "Upgrade_48",
+      "translations": [ "Ферма ифритов", "Blaze Farm", "Alev Çiftliği", "Lohenfarm" ]
+    }
+  ]
+}
